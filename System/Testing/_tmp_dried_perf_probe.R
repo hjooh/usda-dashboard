@@ -1,0 +1,18 @@
+library(shinytest2)
+app <- AppDriver$new(app_dir = file.path('VP Clone'), name = 'vp_dried_perf_probe', load_timeout = 120000, timeout = 120000)
+on.exit(try(app$stop(), silent = TRUE), add = TRUE)
+app$wait_for_idle(timeout = 60000)
+app$set_inputs(vp_trade_flow_choice='export', wait_=FALSE)
+app$wait_for_idle(timeout = 120000)
+app$set_inputs(vp_group_choice='__all__', wait_=FALSE)
+app$wait_for_idle(timeout = 120000)
+app$set_inputs(vp_subgroup_choice='__all__', wait_=FALSE)
+app$wait_for_idle(timeout = 120000)
+app$set_inputs(vp_market_segment_choice='Dried', wait_=FALSE)
+ok <- TRUE
+msg <- ''
+tryCatch(app$wait_for_idle(timeout = 20000), error = function(e){ok <<- FALSE; msg <<- conditionMessage(e)})
+cat('WAIT_OK=', ok, '\n', sep='')
+if (!ok) cat('WAIT_MSG=', msg, '\n', sep='')
+vals <- app$get_values(input=c('vp_market_segment_choice','vp_commodity_name_choice','commodity_choice','country_choice'))
+cat('TYPE_VALUE=', as.character(vals$input[['commodity_choice']]), '\n', sep='')
