@@ -1,0 +1,14 @@
+{
+  "label": "tranche8j_off_on_i1_comparison_cache_on_off_current_only_retry1_validation",
+  "inventory_path": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_tranche8j_off_on_i1_comparison_cache_on_off_current_only_retry1_inventory_20260807T183559Z.csv",
+  "total_rows": 4,
+  "ok_rows": 4,
+  "quarantine_rows": 0,
+  "detail_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_tranche8j_off_on_i1_comparison_cache_on_off_current_only_retry1_validation_20260807T183604Z_detail.csv",
+  "summary_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_tranche8j_off_on_i1_comparison_cache_on_off_current_only_retry1_validation_20260807T183604Z_summary.csv",
+  "reasons_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_tranche8j_off_on_i1_comparison_cache_on_off_current_only_retry1_validation_20260807T183604Z_reasons.csv",
+  "lane_counts_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_tranche8j_off_on_i1_comparison_cache_on_off_current_only_retry1_validation_20260807T183604Z_lane_counts.csv",
+  "probe_counts_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_tranche8j_off_on_i1_comparison_cache_on_off_current_only_retry1_validation_20260807T183604Z_probe_counts.csv",
+  "role_counts_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_tranche8j_off_on_i1_comparison_cache_on_off_current_only_retry1_validation_20260807T183604Z_role_counts.csv",
+  "lane_probe_role_counts_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_tranche8j_off_on_i1_comparison_cache_on_off_current_only_retry1_validation_20260807T183604Z_lane_probe_role_counts.csv"
+}

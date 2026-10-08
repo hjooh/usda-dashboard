@@ -1,0 +1,7 @@
+library(data.table)
+source('Programs/vp_data_utils.R')
+cat('RUN_ID=20260810T151439\n')
+cat('CHK|start|', format(Sys.time(), '%Y-%m-%dT%H:%M:%SZ', tz='UTC'), '\n', sep='')
+artifact <- vp_build_trade_artifact(project_dir = normalizePath('.', winslash = '/', mustWork = TRUE))
+cat('CHK|artifact_rows|', nrow(artifact[['data']]), '\n', sep='')
+cat('CHK|done|', format(Sys.time(), '%Y-%m-%dT%H:%M:%SZ', tz='UTC'), '\n', sep='')

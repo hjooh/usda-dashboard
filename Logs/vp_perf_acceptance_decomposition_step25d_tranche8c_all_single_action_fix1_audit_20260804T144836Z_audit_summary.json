@@ -1,0 +1,18 @@
+{
+  "label": "step25d_tranche8c_all_single_action_fix1_audit",
+  "detail_rows": 11466,
+  "summary_rows": 132,
+  "run_rows": 18,
+  "window_confidence_rows": 54,
+  "inconclusive_gate_rows": 6,
+  "classification_rows": 2439,
+  "window_bucket_rows": 132,
+  "confidence_comparison_rows": 18,
+  "input_paths": {
+    "detail_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decomposition_step25d_tranche8c_all_single_action_fix1_20260804T144412Z_detail.csv",
+    "summary_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decomposition_step25d_tranche8c_all_single_action_fix1_20260804T144412Z_summary.csv",
+    "runs_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decomposition_step25d_tranche8c_all_single_action_fix1_20260804T144412Z_runs.csv",
+    "window_confidence_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decomposition_step25d_tranche8c_all_single_action_fix1_20260804T144412Z_window_confidence.csv",
+    "inconclusive_gate_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decomposition_step25d_tranche8c_all_single_action_fix1_20260804T144412Z_inconclusive_gate.csv"
+  }
+}

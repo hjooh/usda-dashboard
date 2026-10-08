@@ -1,0 +1,9 @@
+fruit_header_required_status=PASS
+missing_required_columns=<none>
+month_column=MonthNumber
+distinct_calendar_signatures=12
+top_calendar_signatures=1-2-3-4-5-6-7-8-9-10-11-12|8-9-10-11-12-1-2-3-4-5-6-7|7-8-9-10-11-12-1-2-3-4-5-6|10-11-12-1-2-3-4-5-6-7-8-9|9-10-11-12-1-2-3-4-5-6-7-8
+representative_signature_commodities=Other|Concentrated, frozen
+mixed_volume_contexts=0
+juice_related_rows=11741
+output_dir=C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/FTN Clone/Logs/ftn_preflight/20260810T110101_retry

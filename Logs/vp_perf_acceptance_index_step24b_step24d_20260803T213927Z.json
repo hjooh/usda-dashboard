@@ -1,0 +1,26 @@
+[
+    {
+        "lane":  "warm_partition_disk",
+        "pair_run_label":  "step24b_tranche8_non_symmetric_warm_partition_disk",
+        "clean_room_manifest_csv":  "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/acceptance_clean_room/vp_perf_acceptance_run_manifest_step24b_tranche8_non_symmetric_warm_partition_disk_20260803T202638Z.csv",
+        "decision_summary_csv":  "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decision_step24b_tranche8_non_symmetric_warm_partition_disk__decision_20260803T204616Z_summary.csv",
+        "decision_details_csv":  "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decision_step24b_tranche8_non_symmetric_warm_partition_disk__decision_20260803T204616Z_details.csv",
+        "decision_file_csv":  "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decision_step24b_tranche8_non_symmetric_warm_partition_disk__decision_20260803T204616Z_decision.csv"
+    },
+    {
+        "lane":  "cold_artifact",
+        "pair_run_label":  "step24c_tranche8_non_symmetric_cold_artifact",
+        "clean_room_manifest_csv":  "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/acceptance_clean_room/vp_perf_acceptance_run_manifest_step24c_tranche8_non_symmetric_cold_artifact_20260803T205712Z.csv",
+        "decision_summary_csv":  "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decision_step24c_tranche8_non_symmetric_cold_artifact__decision_20260803T211722Z_summary.csv",
+        "decision_details_csv":  "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decision_step24c_tranche8_non_symmetric_cold_artifact__decision_20260803T211722Z_details.csv",
+        "decision_file_csv":  "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decision_step24c_tranche8_non_symmetric_cold_artifact__decision_20260803T211722Z_decision.csv"
+    },
+    {
+        "lane":  "warm_session",
+        "pair_run_label":  "step24d_tranche8_non_symmetric_warm_session",
+        "clean_room_manifest_csv":  "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/acceptance_clean_room/vp_perf_acceptance_run_manifest_step24d_tranche8_non_symmetric_warm_session_20260803T211729Z.csv",
+        "decision_summary_csv":  "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decision_step24d_tranche8_non_symmetric_warm_session__decision_20260803T213723Z_summary.csv",
+        "decision_details_csv":  "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decision_step24d_tranche8_non_symmetric_warm_session__decision_20260803T213723Z_details.csv",
+        "decision_file_csv":  "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decision_step24d_tranche8_non_symmetric_warm_session__decision_20260803T213723Z_decision.csv"
+    }
+]

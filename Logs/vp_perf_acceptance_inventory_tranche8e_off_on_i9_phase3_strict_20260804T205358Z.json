@@ -1,0 +1,10 @@
+{
+  "label": "tranche8e_off_on_i9_phase3_strict",
+  "index_path": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_index_tranche8e_off_on_i9_phase3_strict_20260804.csv",
+  "inventory_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_tranche8e_off_on_i9_phase3_strict_20260804T205358Z.csv",
+  "total_rows": 72,
+  "ok_rows": 72,
+  "quarantine_rows": 0,
+  "include_startup": true,
+  "app_ref": "working_tree_main_20260804"
+}

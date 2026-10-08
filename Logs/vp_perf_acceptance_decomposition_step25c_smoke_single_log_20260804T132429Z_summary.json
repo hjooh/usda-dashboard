@@ -1,0 +1,11 @@
+{
+  "label": "step25c_smoke_single_log",
+  "inventory_path": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_step25a_tranche8c_20260803T215536Z.csv",
+  "selected_inventory_rows": 1,
+  "detail_rows": 580,
+  "run_rows": 1,
+  "summary_rows": 17,
+  "detail_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decomposition_step25c_smoke_single_log_20260804T132429Z_detail.csv",
+  "summary_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decomposition_step25c_smoke_single_log_20260804T132429Z_summary.csv",
+  "runs_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_decomposition_step25c_smoke_single_log_20260804T132429Z_runs.csv"
+}

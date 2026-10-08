@@ -1,0 +1,14 @@
+{
+  "label": "step25b_tranche8c_validation",
+  "inventory_path": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_step25a_tranche8c_20260803T215536Z.csv",
+  "total_rows": 36,
+  "ok_rows": 36,
+  "quarantine_rows": 0,
+  "detail_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_step25b_tranche8c_validation_20260804T132702Z_detail.csv",
+  "summary_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_step25b_tranche8c_validation_20260804T132702Z_summary.csv",
+  "reasons_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_step25b_tranche8c_validation_20260804T132702Z_reasons.csv",
+  "lane_counts_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_step25b_tranche8c_validation_20260804T132702Z_lane_counts.csv",
+  "probe_counts_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_step25b_tranche8c_validation_20260804T132702Z_probe_counts.csv",
+  "role_counts_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_step25b_tranche8c_validation_20260804T132702Z_role_counts.csv",
+  "lane_probe_role_counts_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_validation_step25b_tranche8c_validation_20260804T132702Z_lane_probe_role_counts.csv"
+}

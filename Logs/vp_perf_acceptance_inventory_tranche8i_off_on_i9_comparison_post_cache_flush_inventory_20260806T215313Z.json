@@ -1,0 +1,10 @@
+{
+  "label": "tranche8i_off_on_i9_comparison_post_cache_flush_inventory",
+  "index_path": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_index_tranche8i_off_on_i9_comparison_post_cache_flush_20260806.csv",
+  "inventory_csv": "C:/Users/SETH.WECHSLER/OneDrive - USDA/Documents/Repositories/VP Clone/Logs/vp_perf_acceptance_inventory_tranche8i_off_on_i9_comparison_post_cache_flush_inventory_20260806T215313Z.csv",
+  "total_rows": 72,
+  "ok_rows": 72,
+  "quarantine_rows": 0,
+  "include_startup": true,
+  "app_ref": "working_tree"
+}
